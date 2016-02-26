@@ -1,0 +1,27 @@
+.container {
+  width: 384px;
+  height: 384px;
+  margin: 100px auto;
+  font-size: 0;
+}
+
+.pixel {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  box-sizing: border-box;
+  transition: background-color 750ms ease;
+}
+
+.footer {
+  width: 384px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: sans-serif;
+  text-align: center;
+  line-height: 120%;
+}
+
+.nosmooth {
+  transition: none !important;
+}
