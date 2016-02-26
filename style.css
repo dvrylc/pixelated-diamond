@@ -1,13 +1,13 @@
 .container {
-  width: 384px;
-  height: 384px;
+  width: 320px;
+  height: 320px;
   margin: 100px auto;
   font-size: 0;
 }
 
 .pixel {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   display: inline-block;
   box-sizing: border-box;
   transition: background-color 750ms ease;
