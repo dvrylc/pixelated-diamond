@@ -1,4 +1,4 @@
-# Pixellated Diamond
+# Pixelated Diamond
 ---
 A [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame) experiment to demonstrate in-browser 60fps animations.
 
